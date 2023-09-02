@@ -1,0 +1,1 @@
+# labmpi-paralela
